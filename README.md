@@ -202,42 +202,42 @@ judging people.**
 
 | Item | Status |
 |---|---|
-| [`modules/00_initial-statement.md`](modules/00_initial-statement.md) | Initial statement. |
-| [`modules/01_cst-fourfold-mapping.md`](modules/01_cst-fourfold-mapping.md) | CST fourfold test and mapping. |
-| [`modules/02_jpp-kata-and-physics.md`](modules/02_jpp-kata-and-physics.md) | JPP as kata; internal physics. |
-| [`modules/03_horizontal-virtue-matrix.md`](modules/03_horizontal-virtue-matrix.md) | Cardinal virtues as matrix. |
-| [`modules/04_vertical-axis.md`](modules/04_vertical-axis.md) | Theological virtues; the spiritual spine. |
-| [`modules/05_prudential-praxis.md`](modules/05_prudential-praxis.md) | Prudential praxis in motion. |
-| [`modules/06_vallor-integration.md`](modules/06_vallor-integration.md) | Witness Moment and Vallor's framework. |
-| [`modules/07_witness-moment-chart.md`](modules/07_witness-moment-chart.md) | Witness Moment flowchart. |
-| [`modules/08_witness-moment-containment-irrational-agent.md`](modules/08_witness-moment-containment-irrational-agent.md) | Containment of the irrational agent. |
+| [`00_initial-statement.md`](00_initial-statement.md) | Initial statement. |
+| [`01_cst-fourfold-mapping.md`](01_cst-fourfold-mapping.md) | CST fourfold test and mapping. |
+| [`02_jpp-kata-and-physics.md`](02_jpp-kata-and-physics.md) | JPP as kata; internal physics. |
+| [`03_horizontal-virtue-matrix.md`](03_horizontal-virtue-matrix.md) | Cardinal virtues as matrix. |
+| [`04_vertical-axis.md`](04_vertical-axis.md) | Theological virtues; the spiritual spine. |
+| [`05_prudential-praxis.md`](05_prudential-praxis.md) | Prudential praxis in motion. |
+| [`06_vallar-integration.md`](06_vallar-integration.md) | Witness Moment and Vallor's framework. |
+| [`witness.moment.chart.md`](witness.moment.chart.md) | Witness Moment flowchart. |
+| [`08_witness-moment-containt-irrational-agent.md`](08_witness-moment-containt-irrational-agent.md) | Containment of the irrational agent. |
 | [`CST-JPP-Manual.md`](CST-JPP-Manual.md) | Combined reading copy of the modules. |
 
 ### Case studies (not canonical)
 
 | Item | Status |
 |---|---|
-| [`case-studies/Buddhist-March-on-Petersburg.md`](case-studies/Buddhist-March-on-Petersburg.md) | Case study. |
+| [`07_Buddhist-March-on-Petersburg.md`](07_Buddhist-March-on-Petersburg.md) | Case study. |
 
 ### Working papers (not canonical)
 
 | Item | Status |
 |---|---|
-| [`working-papers/`](working-papers/) | *JPP & Non-Violent Actively Passive Resistance* — prose treatment of the irrational-agent problem addressed by module 08. Two versions. |
+| `CST JPP and Non-Violent Actively Passive Resistence .pdf` and `5FEB2026 CST JPP WM NV Actively Passive.pdf` | *JPP & Non-Violent Actively Passive Resistance* — prose treatment of the irrational-agent problem addressed by module 08. Two versions. |
 
 ### Formation material (separate body of work)
 
 | Item | Status |
 |---|---|
-| [`formation/`](formation/) | *Year Two · Virtues · Session Five: Justice* — St. Albert the Great Lay Dominican Fraternity. Related teaching, not part of the JPP trunk. |
+| `Y2S5 Justice rev6.0.pdf` | *Year Two · Virtues · Session Five: Justice* — St. Albert the Great Lay Dominican Fraternity. Related teaching, not part of the JPP trunk. |
 
 ### Reference and archival material (not canonical)
 
 | Item | Status |
 |---|---|
 | [`docs/meta-application/`](docs/meta-application/) | Commentary on the canonicalization episode. |
-| [`archive/grammar-of-agency/`](archive/grammar-of-agency/) | *Grammar of Agency*, versions 10.8 – 22.2. Superseded; retained for lineage. |
-| [`archive/`](archive/) | Superseded charts, sketches, and prior README renderings. |
+| *Grammar of Agency*, versions 10.8 - 22.2 | *Grammar of Agency*, versions 10.8 – 22.2. Superseded; retained for lineage. |
+| `Revised Outline.pdf`, `sketch 2.pdf`, `taffy_toss.pdf`, `JG.md`, `JG_view.html`, `README.md.pdf` | Superseded charts, sketches, and prior README renderings. |
 | `Glossary.pdf`, `Bibliography.pdf` | Reference material. |
 
 **Where the trunk and a module differ, the trunk governs.**
@@ -425,30 +425,31 @@ team/communal).
 - **Readiness checklist** reduced to four criteria; the fifth was a license term,
   not a competency.
 
-**Repository reorganization — 2026-09-21.** No change to the trunk.
+### Pending: repository reorganization
 
-- **Renamed** from `Judgment-Premised-Processing` to
-  `Judgment-and-Prudence-Protocol`. The former URL redirects.
-- **`modules/` created.** Numbered modules 00–08 moved there, which is where
+Prepared but **not yet applied**. The file names above are current. When it
+lands it will, in a single commit:
+
+- create `modules/` and move the numbered modules there, Numbered modules 00–08 moved there, which is where
   `CST-JPP-Manual.md`'s table of contents already pointed. Nine dead links
   resolved.
-- **Filenames corrected:** `06_vallar-` → `06_vallor-`;
+- correct filenames: `06_vallar-` → `06_vallor-`;
   `containt` → `containment`.
-- **Module 07 reconciled.** The Witness Moment flowchart now occupies slot 07,
+- reconcile module 07: The Witness Moment flowchart now occupies slot 07,
   matching the Manual's table of contents. The Buddhist March on Petersburg case
   study, previously numbered 07, moved to `case-studies/` — it is a case study,
   not a module.
-- **Duplicate charts resolved.** Three copies of the Witness Moment flowchart
+- resolve duplicate charts: Three copies of the Witness Moment flowchart
   existed (`08_witness.moment.chart.md`, `witness.moment.chart.md`,
   `witness-moment.md`); two were byte-identical and one lacked its code fence and
   so did not render. One fenced copy retained as module 07.
-- **`archive/` created** for superseded working material: nine *Grammar of
+- create `archive/` for superseded working material: nine *Grammar of
   Agency* drafts, sketches, earlier charts, and the README 2.2 PDF rendering.
-- **`working-papers/` and `formation/` created.** The two *Non-Violent Actively
+- create `working-papers/` and `formation/`: The two *Non-Violent Actively
   Passive Resistance* papers are current JPP working material, not archive. The
   Year Two Justice session belongs to the fraternity's formation curriculum and
   is not JPP material at all; it is kept but separated.
-- **Scaffolding removed:** `020526 anchor` (a file containing three git
+- remove scaffolding: `020526 anchor` (a file containing three git
   commands) and `MERMAID_TEST.md`. Both remain in git history.
 
 ### Known issues, not addressed
