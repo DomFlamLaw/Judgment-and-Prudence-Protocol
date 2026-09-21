@@ -1,0 +1,98 @@
+CST–JPP — CANONICAL TRUNK LICENSE (TIER 1)
+==========================================
+
+Work                JPP 1.3b — The Judgment and Prudence Protocol
+Canonical artifact  012626 JPP 1.3b Under Pressure.pdf
+SHA-256             d05d72520025ad9eed2286b5bf9f17165f4bd132f9f000ed32650d3b45329905
+Size                4,010,120 bytes
+Author              Dominic G. Flamiano, OP, JD
+Copyright           © 2026 Dominic G. Flamiano. All rights reserved except as
+                    expressly granted below.
+
+A copy that does not produce the digest above is not JPP 1.3b, whatever it is
+called, and nothing in this license applies to it.
+
+
+1. GRANT
+--------
+
+The Work identified above is licensed under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International Public License
+("CC BY-NC-ND 4.0").
+
+The complete legal code of CC BY-NC-ND 4.0 is incorporated into this license by
+reference, in full, and is available in authoritative form at:
+
+    https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+Where anything in this file differs in any respect from that authoritative text,
+the authoritative text governs the copyright grant.
+
+
+2. PLAIN-LANGUAGE SUMMARY (NOT OPERATIVE)
+-----------------------------------------
+
+This section is a reader's convenience. It grants nothing and restricts nothing.
+Section 1 is the grant.
+
+You may:
+  - read, study, and practice the Work;
+  - teach from the Work as-is;
+  - copy and redistribute the Work in any medium or format, unchanged;
+  in each case for NonCommercial purposes, with attribution.
+
+You may not, under this license:
+  - share the Work in modified, adapted, reordered, or restructured form;
+  - use the Work for commercial purposes.
+
+Adaptation is available under a separate grant. See LICENSE-BRANCHES.
+
+
+3. SCOPE — WHAT THIS LICENSE DOES NOT COVER
+--------------------------------------------
+
+This license is a copyright license and nothing more.
+
+(a) NAMES AND MARKS ARE NOT LICENSED HERE.
+
+    CC BY-NC-ND 4.0 § 2(b)(2) provides that patent and trademark rights are not
+    licensed under that Public License. Accordingly, this license conveys no
+    right to use the designations "JPP", "JPP 1.3b", "CST–JPP", "CST–JPP-X",
+    "The Judgment and Prudence Protocol", or any confusingly similar
+    designation, to identify, brand, endorse, or describe any work, service,
+    program, system, or offering.
+
+    Conditions governing use of those designations are stated separately in
+    NAME-AND-USE-POLICY.md. That document is NOT part of this copyright license
+    and imposes no condition on the exercise of the rights granted in Section 1.
+
+(b) NO ADDITIONAL RESTRICTIONS ARE IMPOSED UNDER THIS COPYRIGHT LICENSE.
+
+    Consistent with CC BY-NC-ND 4.0 § 2(a)(5)(B), the Licensor imposes no
+    additional or different terms or conditions on the Licensed Material that
+    would restrict exercise of the Licensed Rights by any recipient. Every
+    right granted in Section 1 may be exercised in full without reference to,
+    reliance on, or compliance with NAME-AND-USE-POLICY.md.
+
+(c) MORAL RIGHTS. Moral rights, including the right of integrity, are not
+    licensed under CC BY-NC-ND 4.0 (§ 2(b)(1)) and are not licensed here.
+
+
+4. ATTRIBUTION
+--------------
+
+Attribution required by CC BY-NC-ND 4.0 § 3(a) is satisfied by:
+
+    Used with permission from CST–JPP / JPP 1.3b
+    (Dominic G. Flamiano, OP, JD).
+    https://github.com/DomFlamLaw/Judgment-and-Prudence-Protocol
+    Licensed CC BY-NC-ND 4.0.
+
+Attribution must be retained in any redistribution and must not be removed,
+obscured, or altered.
+
+
+5. CONTACT
+----------
+
+Permissions, commercial licensing, and questions: domflam@hotmail.com
