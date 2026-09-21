@@ -1,0 +1,108 @@
+CST–JPP — SANCTIONED BRANCH LICENSE (TIER 2)
+============================================
+
+Applies to           Adaptations, extensions, and domain applications of
+                     JPP 1.3b — The Judgment and Prudence Protocol
+Parent work          012626 JPP 1.3b Under Pressure.pdf
+Parent SHA-256       d05d72520025ad9eed2286b5bf9f17165f4bd132f9f000ed32650d3b45329905
+Author of parent     Dominic G. Flamiano, OP, JD
+Copyright            © 2026 Dominic G. Flamiano. All rights reserved except as
+                     expressly granted below.
+
+This file governs Tier 2 only. The canonical trunk itself remains frozen and is
+licensed separately under LICENSE (CC BY-NC-ND 4.0). Nothing here permits
+redistribution of the trunk in modified form under the trunk's own name.
+
+
+1. GRANT
+--------
+
+Subject to Section 3, the Licensor grants a license to adapt, extend, and apply
+the Work to new domains, under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International Public License
+("CC BY-NC-SA 4.0").
+
+The complete legal code of CC BY-NC-SA 4.0 is incorporated into this license by
+reference, in full, and is available in authoritative form at:
+
+    https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Where anything in this file differs in any respect from that authoritative text,
+the authoritative text governs the copyright grant.
+
+
+2. RELATIONSHIP TO THE TRUNK LICENSE
+-------------------------------------
+
+The trunk is licensed NoDerivatives. This file is a separate, additional grant
+from the Licensor, offered alongside it, that lifts the NoDerivatives condition
+for adaptations that comply with this license. A licensee may rely on either
+LICENSE or LICENSE-BRANCHES. Relying on this one means the adaptation is
+governed by CC BY-NC-SA 4.0 and by Section 3 below.
+
+
+3. CONDITIONS OF THE ADAPTATION GRANT
+--------------------------------------
+
+(a) SHARE-ALIKE. Adapted Material must be licensed under CC BY-NC-SA 4.0 or a
+    BY-NC-SA-Compatible License, per § 3(b) of that license. Branches may not be
+    enclosed.
+
+(b) ATTRIBUTION OF THE PARENT. Adapted Material must identify JPP 1.3b as the
+    parent work, name Dominic G. Flamiano, OP, JD as its author, and state the
+    parent SHA-256 above.
+
+(c) WRITTEN DISCLOSURE OF DIVERGENCE. Adapted Material must carry, in writing
+    and in the material itself, a statement of how it diverges from JPP 1.3b —
+    what was added, removed, reordered, renamed, or reinterpreted.
+
+    This condition is a modification notice of the kind contemplated by
+    CC BY-NC-SA 4.0 § 3(a)(1)(B), which already requires an indication that the
+    material was modified. Subsection (c) specifies the form that indication
+    must take. It is not an additional restriction on the exercise of the
+    Licensed Rights.
+
+
+4. SCOPE — WHAT THIS LICENSE DOES NOT COVER
+--------------------------------------------
+
+(a) NAMES AND MARKS ARE NOT LICENSED HERE.
+
+    CC BY-NC-SA 4.0 § 2(b)(2) provides that patent and trademark rights are not
+    licensed under that Public License. This license therefore conveys no right
+    to use "JPP", "JPP 1.3b", "CST–JPP", "CST–JPP-X", "The Judgment and Prudence
+    Protocol", or any confusingly similar designation, to identify, brand,
+    endorse, or describe a branch or any other work.
+
+    A branch may be built and distributed under this license without permission
+    to use those names. Permission to call a branch "CST–JPP-X", or to describe
+    anything as "JPP-compliant", is granted separately and conditionally under
+    NAME-AND-USE-POLICY.md.
+
+(b) NO DOWNSTREAM RESTRICTIONS. Consistent with CC BY-NC-SA 4.0 § 3(b)(3) and
+    § 2(a)(5)(B), neither the Licensor nor any branch licensee may impose
+    additional or different terms on Adapted Material that restrict exercise of
+    the rights granted under the Adapter's License.
+
+    This is why the Automation Prohibition does not appear in this file. Placing
+    it here would be an additional restriction that a branch could not lawfully
+    propagate downstream, and it would lapse at the first branch. It is enforced
+    instead as a condition on name use, under NAME-AND-USE-POLICY.md, which
+    operates outside the copyright grant and is not subject to § 3(b)(3).
+
+
+5. ATTRIBUTION (SHORT FORM)
+----------------------------
+
+    Adapted from CST–JPP / JPP 1.3b (Dominic G. Flamiano, OP, JD),
+    SHA-256 d05d72520025ad9eed2286b5bf9f17165f4bd132f9f000ed32650d3b45329905.
+    Divergence from the parent is disclosed at <location>.
+    This adaptation is licensed CC BY-NC-SA 4.0.
+
+    Parent: https://github.com/DomFlamLaw/Judgment-and-Prudence-Protocol
+
+
+6. CONTACT
+----------
+
+Branch disclosures, name-use permission, and questions: domflam@hotmail.com
